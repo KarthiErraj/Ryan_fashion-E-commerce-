@@ -1,0 +1,51 @@
+.options
+{
+    background-color: rgb(91, 77, 245);
+    width: 100%;
+   
+    display: flex;
+    color: blue;
+    height: 100px;
+    align-items: center;
+  
+   
+}
+.opt{
+    margin-right: 90px;
+    margin-left: 100px;
+    background-color: whitesmoke;
+    height: 85px;
+    width: 85px;
+    border-radius: 50%;
+    text-align: center;
+    align-items: center;
+}
+.trends
+{
+    margin-top: 90px;
+    width: 95%;
+   margin-left: auto;
+   margin-right: auto;
+   padding: .2%;
+   
+}
+.newar
+{ 
+    width: 99%;
+    margin: 40px auto;
+    font-size: large;
+    font-weight: 500;
+    word-spacing: 3px;
+}
+.footer
+{
+    display: inline-flex;
+    height: 300px;
+    width: 100%;
+    
+}
+.contact
+{
+  
+    margin-left: 170px;
+}
